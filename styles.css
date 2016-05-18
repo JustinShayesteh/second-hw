@@ -1,0 +1,28 @@
+.main{
+  width:90%
+  max-width: 69em;
+  margin: auto;
+  padding: 1.875em 3.125em 1.875em;
+}
+
+*{
+  box-sizing: border-box;
+
+}
+
+div{
+  display: block;
+
+}
+
+.timeline{
+  margin: 30px;
+}
+
+body{
+  font-family: 'Lato', Calibri, Arial, sans-serif;
+  color: #47a3da;
+  font-size: 100%;
+
+
+}
