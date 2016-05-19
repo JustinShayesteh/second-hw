@@ -10,11 +10,6 @@
 
 }
 
-div{
-  display: block;
-
-}
-
 .timeline{
   margin: 30px;
 }
@@ -23,6 +18,30 @@ body{
   font-family: 'Lato', Calibri, Arial, sans-serif;
   color: #47a3da;
   font-size: 100%;
+}
+
+.time span{
+  display: block;
+}
+
+.clock{
+  font-size: 25px;
+}
+
+.label--1{
+  color: white;
+  background-color: #6CBFEE;
+  width: 50%;
+  padding: 20px;
+  margin-left: 300px;
 
 
+}
+
+.label--2{
+  color: white;
+  background-color: #3594CB;
+  width: 50%;
+  padding: 20px;
+  margin-left: 300px;
 }
